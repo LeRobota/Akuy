@@ -7,7 +7,7 @@ Unlike a mobile app, Akuy is **constantly visible**, highlighting an otherwise i
 If you're already familiar with **Arduino**, you can follow the tutorial below to build your own.
 
 ### ⚠️ A video showing the full assembly (in french) is available here : 
-
+https://youtu.be/SbpglD8BQSg
 
 ---
 
